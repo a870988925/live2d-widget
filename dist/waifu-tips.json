@@ -252,8 +252,8 @@
     "hitokoto": "这句一言来自 <span>「$1」</span>，是 <span>$2</span> 在 hitokoto.cn 投稿的。",
     "welcome": "欢迎阅读<span>「$1」</span>",
     "referrer": "Hello！来自 <span>$1</span> 的朋友",
-    "hoverBody": ["干嘛呢你，快把手拿开～～", "鼠…鼠标放错地方了！", "你要干嘛呀？", "喵喵喵？", "怕怕(ノ≧∇≦)ノ", "非礼呀！救命！", "这样的话，只能使用武力了！", "我要生气了哦", "不要动手动脚的！", "真…真的是不知羞耻！", "Hentai！"],
-    "tapBody": ["是…是不小心碰到了吧…", "萝莉控是什么呀？", "你看到我的小熊了吗？", "再摸的话我可要报警了！⌇●﹏●⌇", "110 吗，这里有个变态一直在摸我(ó﹏ò｡)", "不要摸我了，我会告诉老婆来打你的！", "干嘛动我呀！小心我咬你！", "别摸我，有什么好摸的！"]
+    "hoverBody": ["干嘛呢你，快把手拿开～～", "鼠…鼠标放错地方了！", "你要干嘛呀？", "喵喵喵？", "怕怕(ノ≧∇≦)ノ", "非礼呀！救命！", "这样的话，只能使用武力了！", "我要生气了哦", "不要动手动脚的！"],
+    "tapBody": ["干嘛动我呀！小心我咬你！", "真相只有一个！","义勇没有被讨厌！"]
   },
   "models": [{
     "name": "Potion-Maker/Pio",
@@ -288,9 +288,11 @@
       "https://fastly.jsdelivr.net/gh/fghrsh/live2d_api/model/HyperdimensionNeptunia/histoirenohover"
     ],
     "message": "Nep! Nep! 超次元游戏：海王星 系列"
-  }, {
+  }, 
+    {
     "name": "Hiyori",
     "paths": ["https://fastly.jsdelivr.net/gh/Live2D/CubismWebSamples/Samples/Resources/Hiyori/Hiyori.model3.json"],
     "message": "是 Hiyori 哦 ~"
-  }]
+  }
+  ]
 }
