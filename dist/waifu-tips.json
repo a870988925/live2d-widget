@@ -257,11 +257,11 @@
   },
   "models": [{
     "name": "Potion-Maker/Pio",
-    "paths": ["https://model.oml2d.com/Senko_Normals/senko.model3.json"],
+    "paths": ["https://fastly.jsdelivr.net/gh/oh-my-live2d/live2d-models/cat-white/model.json"],
     "message": "来自 Potion Maker 的 Pio 酱 ~"
   }, {
     "name": "Potion-Maker/Tia",
-    "paths": ["https://model.oml2d.com/cat-white/model.json"],
+    "paths": ["https://model.oml2d.com/models/cat-white/model.json"],
     "message": "来自 Potion Maker 的 Tia 酱 ~"
   }
   ]
