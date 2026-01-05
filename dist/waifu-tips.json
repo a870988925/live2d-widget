@@ -241,7 +241,7 @@
     "text": "你是夜猫子呀？这么晚还不睡觉，明天起的来嘛？"
   }],
   "message": {
-    "default": ["好久不见，日子过得好快呢……", "大坏蛋！你都多久没理人家了呀，嘤嘤嘤～", "嗨～快来逗我玩吧！", "拿小拳拳锤你胸口！", "记得把小家加入收藏夹哦！"],
+    "default": ["123123", "大坏蛋！你都多久没理人家了呀，嘤嘤嘤～", "嗨～快来逗我玩吧！", "拿小拳拳锤你胸口！", "记得把小家加入收藏夹哦！"],
     "console": "哈哈，你打开了控制台，是想要看看我的小秘密吗？",
     "copy": "你都复制了些什么呀，转载要记得加上出处哦！",
     "visibilitychange": "哇，你终于回来了～",
@@ -257,11 +257,11 @@
   },
   "models": [{
     "name": "Potion-Maker/Pio",
-    "paths": ["https://fastly.jsdelivr.net/gh/oh-my-live2d/live2d-models/models/platelet/model.json"],
-    "message": "血小板"
+    "paths": ["https://fastly.jsdelivr.net/gh/oh-my-live2d/live2d-models/models/mai/model.json"],
+    "message": "小mai来了"
   }, {
     "name": "Potion-Maker/Tia",
-    "paths": ["https://fastly.jsdelivr.net/gh/oh-my-live2d/live2d-models/models/chino/model.json"],
+    "paths": ["https://fastly.jsdelivr.net/gh/oh-my-live2d/live2d-models/models/mai/model.json"],
     "message": "来自 Potion Maker 的 Tia 酱 ~"
   }, {
     "name": "HyperdimensionNeptunia",
