@@ -257,8 +257,8 @@
   },
   "models": [{
     "name": "Potion-Maker/Pio",
-    "paths": ["https://fastly.jsdelivr.net/gh/oh-my-live2d/live2d-models/models/cat-white/model.json"],
-    "message": "来自 Potion Maker 的 Pio 酱 ~"
+    "paths": ["https://fastly.jsdelivr.net/gh/oh-my-live2d/live2d-models/models/platelet/model.json"],
+    "message": "血小板"
   }, {
     "name": "Potion-Maker/Tia",
     "paths": ["https://fastly.jsdelivr.net/gh/oh-my-live2d/live2d-models/models/chino/model.json"],
