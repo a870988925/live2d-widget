@@ -257,7 +257,7 @@
   },
   "models": [{
     "name": "Potion-Maker/Pio",
-    "paths": ["https://fastly.jsdelivr.net/gh/oh-my-live2d/live2d-models/models/mai/model.json"],
+    "paths": ["https://fastly.jsdelivr.net/gh/oh-my-live2d/live2d-models/models/cat-black/model.json"],
     "message": "小mai来了"
   }, {
     "name": "Potion-Maker/Tia",
