@@ -1,6 +1,6 @@
 /*!
  * Live2D Widget
- * https://github.com/stevenjoezhang/live2d-widget
+ * https://github.com/stevenjoezhang/live2d-widget1
  */
 
 // Recommended to use absolute path for live2d_path parameter
